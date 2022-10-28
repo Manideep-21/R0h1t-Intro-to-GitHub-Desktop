@@ -1,1 +1,1 @@
-Repository initialized!
+Test passed :)
